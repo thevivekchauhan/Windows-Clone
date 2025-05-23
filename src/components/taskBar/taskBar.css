@@ -1,0 +1,35 @@
+.taskbar-main-icons {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    align-items: center;
+    height: 100%;  /* Add this */
+}
+
+.taskbar-main-icons .taskbar-icon {
+    display: flex;
+    align-items: center;
+    height: 100%;  /* Add this */
+}
+
+.taskbar-main-icons .uk-flex {
+    height: 100%;  /* Add this */
+}
+
+.windows-logo {
+    width: auto;
+    height: 100%;
+    opacity: 0.9;
+}
+
+.windows-logo:hover {
+    opacity: 1;
+}
+
+@media (max-width: 768px) {
+    .taskbar-main-icons {
+        position: static;
+        transform: none;
+    }
+}
