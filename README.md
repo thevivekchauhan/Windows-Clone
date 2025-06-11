@@ -58,17 +58,6 @@ Set environment variables
 Deploy!
  
 
-## Installation
-
-To get a local copy up and running:
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/vivekos-projects/portfolio-os.git
-cd portfolio-os
-
-npm install
-# or
 
 
 
