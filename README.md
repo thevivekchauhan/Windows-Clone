@@ -71,15 +71,6 @@ npm install
 # or
 yarn install
 
-REACT_APP_APIKEY=your_firebase_api_key
-REACT_APP_AUTH_DOMAIN=your_firebase_auth_domain
-REACT_APP_PROJECT_ID=your_firebase_project_id
-REACT_APP_STORAGE_BUCKET=your_firebase_storage_bucket
-REACT_APP_MESSAGING_SENDER_ID=your_firebase_sender_id
-REACT_APP_APP_ID=your_firebase_app_id
-REACT_APP_MEASUREMENT_ID=your_firebase_measurement_id
-REACT_APP_EMAILJS_KEY=your_emailjs_key
-
 
 
 
