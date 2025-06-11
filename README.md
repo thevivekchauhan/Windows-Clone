@@ -69,9 +69,6 @@ cd portfolio-os
 
 npm install
 # or
-yarn install
-
-
 
 
 
