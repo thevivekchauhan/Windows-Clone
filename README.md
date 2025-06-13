@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
   <br>
-  Portfolio OS Theme - Windows.
+  Portfolio OS Theme - Windows..
   <br>
 </h1>
 
